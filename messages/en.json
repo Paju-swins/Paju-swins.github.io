@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "map": "Map Search",
+    "about": "About"
+  },
+  "landing": {
+    "hero_title": "Paju for Everyone",
+    "hero_subtitle": "Re:DMZ — Regeneration & Relax",
+    "hero_description": "Barrier-free tourism information for the Paju DMZ region — covering wheelchair users, visually and hearing-impaired visitors, seniors, and families with infants.",
+    "cta_map": "Explore the Map",
+    "cta_about": "About the Program",
+    "skip_to_main": "Skip to main content"
+  },
+  "about": {
+    "title": "Modurang Paju — Re:DMZ",
+    "subtitle": "Regeneration & Relax",
+    "program_title": "Program Overview",
+    "funding_title": "Funding & Partners",
+    "a11y_title": "Accessibility Goals",
+    "contact_title": "Contact"
+  },
+  "map_placeholder": {
+    "title": "Map Search is coming soon",
+    "body": "This site is a partner preview. The barrier-free tourism map search will be available when the full service launches.",
+    "back": "Back to home"
+  },
+  "footer": {
+    "partnership": "A partnership between Gyeonggi Province, Gyeonggi Tourism Org., Paju City, Paju Urban Development Corp., and DMZ Forest"
+  },
+  "a11y": {
+    "lang_select": "Select language",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try again"
+  }
+}

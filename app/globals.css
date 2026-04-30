@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+/* Skip-link: hidden until focused */
+.skip-link {
+  @apply absolute -top-full left-0 z-50 px-4 py-2 bg-white text-black font-semibold;
+  @apply focus:top-0 focus:outline-2 focus:outline-offset-0;
+}
+
+/* Ensure focus rings are always visible */
+:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 2px;
+}
