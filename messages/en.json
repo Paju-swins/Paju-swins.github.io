@@ -1,16 +1,35 @@
 {
   "nav": {
     "home": "Home",
-    "map": "Map Search",
-    "about": "About"
+    "map": "Map",
+    "timetable": "Timetable",
+    "book": "Book",
+    "fleet": "Fleet",
+    "routes": "Routes",
+    "news": "News",
+    "about": "About",
+    "login": "Login"
   },
   "landing": {
     "hero_title": "Paju for Everyone",
     "hero_subtitle": "Re:DMZ — Regeneration & Relax",
     "hero_description": "Barrier-free tourism information for the Paju DMZ region — covering wheelchair users, visually and hearing-impaired visitors, seniors, and families with infants.",
     "cta_map": "Explore the Map",
+    "cta_book": "Book a Vehicle",
     "cta_about": "About the Program",
-    "skip_to_main": "Skip to main content"
+    "skip_to_main": "Skip to main content",
+    "features_title": "Accessibility Features",
+    "how_title": "How it works",
+    "step1_title": "Search vehicles",
+    "step1_desc": "Find the right vehicle by date, passenger count, and accessibility needs",
+    "step2_title": "Submit booking",
+    "step2_desc": "Enter passenger details and submit your booking request",
+    "step3_title": "Board",
+    "step3_desc": "After confirmation, meet your driver at the agreed pickup point",
+    "fleet_title": "Our Fleet",
+    "routes_title": "Featured Routes",
+    "view_all_fleet": "View all vehicles",
+    "view_all_routes": "View all routes"
   },
   "about": {
     "title": "Modurang Paju — Re:DMZ",
@@ -20,13 +39,130 @@
     "a11y_title": "Accessibility Goals",
     "contact_title": "Contact"
   },
+  "map_page": {
+    "title": "Accessible Tourism Map",
+    "subtitle": "14 barrier-free attractions in Paju DMZ region",
+    "filter_title": "Accessibility Filters",
+    "filter_wheelchair": "Wheelchair",
+    "filter_blind": "Visual",
+    "filter_deaf": "Hearing",
+    "filter_parking": "Parking",
+    "filter_restroom": "Restroom",
+    "filter_infant": "Infant",
+    "filter_senior": "Senior",
+    "poi_list_title": "Attractions",
+    "see_detail": "View details",
+    "skip_to_main": "Skip to main content"
+  },
   "map_placeholder": {
     "title": "Map Search is coming soon",
     "body": "This site is a partner preview. The barrier-free tourism map search will be available when the full service launches.",
     "back": "Back to home"
   },
+  "timetable": {
+    "title": "Timetable",
+    "subtitle": "Check vehicle availability and routes by date",
+    "skip_to_main": "Skip to main content",
+    "available_title": "Available Vehicles",
+    "routes_title": "Routes",
+    "book_this": "Book now",
+    "seats": "seats",
+    "wheelchair_slots": "wheelchair slots",
+    "available_badge": "Available",
+    "duration": "Duration",
+    "distance": "Distance",
+    "base_price": "Base price",
+    "min": "min",
+    "km": "km"
+  },
+  "fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Barrier-free vehicles for comfortable travel",
+    "skip_to_main": "Skip to main content",
+    "type_large_bus": "Large Bus",
+    "type_small_bus": "Mid-Size Bus",
+    "type_van": "Van",
+    "capacity": "Capacity",
+    "wheelchair_slots": "Wheelchair slots",
+    "amenities": "Amenities",
+    "status_active": "In service",
+    "book_this": "Book this vehicle",
+    "amenity_wifi": "Wi-Fi",
+    "amenity_usb": "USB charging",
+    "amenity_ramp": "Ramp",
+    "amenity_lift": "Lift",
+    "amenity_aircon": "A/C",
+    "amenity_belt": "Seatbelt"
+  },
+  "routes": {
+    "title": "Routes",
+    "subtitle": "Connecting Paju's major barrier-free attractions",
+    "skip_to_main": "Skip to main content",
+    "duration": "Duration",
+    "distance": "Distance",
+    "price": "Base price",
+    "book_this_route": "Book this route",
+    "min": "min",
+    "km": "km",
+    "origin": "From",
+    "destination": "To"
+  },
+  "book": {
+    "title": "Book a Vehicle",
+    "subtitle": "Search available vehicles for your trip",
+    "skip_to_main": "Skip to main content",
+    "search_date": "Travel date",
+    "search_passengers": "Passengers",
+    "search_wheelchair": "Wheelchair seats",
+    "search_type": "Vehicle type",
+    "search_all_types": "All types",
+    "search_trip": "Trip type",
+    "search_one_way": "One way",
+    "search_round_trip": "Round trip",
+    "search_submit": "Search vehicles",
+    "results_title": "Available vehicles",
+    "results_seats": "seats",
+    "results_wheelchair": "wheelchair",
+    "results_available": "Available",
+    "book_this": "Book now",
+    "demo_notice": "Demo preview — actual booking available when the full service launches",
+    "type_large": "Large Bus",
+    "type_mid": "Mid-Size Bus",
+    "type_van": "Van"
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "Latest updates from Modurang Paju",
+    "skip_to_main": "Skip to main content",
+    "empty": "No news articles published yet",
+    "read_more": "Read more",
+    "back": "Back to news",
+    "author": "Author",
+    "published": "Published"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Frequently asked questions about booking and services",
+    "skip_to_main": "Skip to main content",
+    "empty": "No FAQ entries yet",
+    "cat_booking": "Booking",
+    "cat_accessibility": "Accessibility",
+    "cat_vehicle": "Vehicle",
+    "cat_account": "Account"
+  },
+  "auth": {
+    "login_title": "Sign in",
+    "login_email": "Email",
+    "login_password": "Password",
+    "login_submit": "Sign in",
+    "login_no_account": "Don't have an account?",
+    "login_signup": "Sign up",
+    "login_demo": "Demo account: user1@paju.local / paju1234!",
+    "skip_to_main": "Skip to main content"
+  },
   "footer": {
-    "partnership": "A partnership between Gyeonggi Province, Gyeonggi Tourism Org., Paju City, Paju Urban Development Corp., and DMZ Forest"
+    "partnership": "A partnership between Gyeonggi Province, Gyeonggi Tourism Org., Paju City, Paju Urban Development Corp., and DMZ Forest",
+    "design": "Design: Voluntrip"
   },
   "a11y": {
     "lang_select": "Select language",
@@ -36,6 +172,8 @@
   "common": {
     "loading": "Loading...",
     "error": "An error occurred",
-    "retry": "Try again"
+    "retry": "Try again",
+    "won": "KRW",
+    "persons": "pax"
   }
 }

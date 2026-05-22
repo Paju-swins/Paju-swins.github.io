@@ -1,16 +1,35 @@
 {
   "nav": {
     "home": "홈",
-    "map": "지도 검색",
-    "about": "사업 소개"
+    "map": "지도",
+    "timetable": "시간표",
+    "book": "예약",
+    "fleet": "차량",
+    "routes": "노선",
+    "news": "소식",
+    "about": "소개",
+    "login": "로그인"
   },
   "landing": {
     "hero_title": "모두를 위한 파주 여행",
     "hero_subtitle": "Re:DMZ — Regeneration & Relax",
     "hero_description": "휠체어 이용자, 시각·청각 장애인, 고령자, 영유아 동반 가족 — 모든 분이 동등하게 즐길 수 있는 파주 DMZ 권역의 무장애 관광 정보를 한눈에.",
     "cta_map": "지도로 탐색하기",
+    "cta_book": "차량 예약하기",
     "cta_about": "사업 소개 보기",
-    "skip_to_main": "본문으로 바로가기"
+    "skip_to_main": "본문으로 바로가기",
+    "features_title": "무장애 편의 정보",
+    "how_title": "이용 방법",
+    "step1_title": "차량 검색",
+    "step1_desc": "날짜, 인원, 접근성 옵션으로 적합한 차량을 찾으세요",
+    "step2_title": "예약 신청",
+    "step2_desc": "탑승자 정보를 입력하고 예약을 신청하세요",
+    "step3_title": "탑승",
+    "step3_desc": "확인 연락 후 약속 장소에서 탑승하세요",
+    "fleet_title": "운행 차량",
+    "routes_title": "주요 노선",
+    "view_all_fleet": "모든 차량 보기",
+    "view_all_routes": "모든 노선 보기"
   },
   "about": {
     "title": "모두랑 파주 — Re:DMZ",
@@ -20,13 +39,130 @@
     "a11y_title": "접근성 목표",
     "contact_title": "문의"
   },
+  "map_page": {
+    "title": "무장애 관광지 지도",
+    "subtitle": "파주 DMZ 권역 14개 무장애 관광지",
+    "filter_title": "접근성 필터",
+    "filter_wheelchair": "휠체어",
+    "filter_blind": "시각 장애",
+    "filter_deaf": "청각 장애",
+    "filter_parking": "장애인 주차",
+    "filter_restroom": "장애인 화장실",
+    "filter_infant": "유아 동반",
+    "filter_senior": "고령자",
+    "poi_list_title": "관광지 목록",
+    "see_detail": "상세 보기",
+    "skip_to_main": "본문으로 바로가기"
+  },
   "map_placeholder": {
     "title": "지도 검색은 준비 중입니다",
     "body": "본 사이트는 파트너 기관 공유용 미리보기입니다. 무장애 관광지 지도 검색은 정식 서비스 오픈 시 제공될 예정입니다.",
     "back": "메인으로 돌아가기"
   },
+  "timetable": {
+    "title": "시간표",
+    "subtitle": "날짜별 이용 가능 차량 및 노선 안내",
+    "skip_to_main": "본문으로 바로가기",
+    "available_title": "이용 가능 차량",
+    "routes_title": "운행 노선",
+    "book_this": "예약하기",
+    "seats": "좌석",
+    "wheelchair_slots": "휠체어 자리",
+    "available_badge": "예약 가능",
+    "duration": "소요 시간",
+    "distance": "거리",
+    "base_price": "기준 요금",
+    "min": "분",
+    "km": "km"
+  },
+  "fleet": {
+    "title": "운행 차량",
+    "subtitle": "무장애 설계 차량으로 편안한 여행",
+    "skip_to_main": "본문으로 바로가기",
+    "type_large_bus": "대형 버스",
+    "type_small_bus": "중형 버스",
+    "type_van": "밴",
+    "capacity": "정원",
+    "wheelchair_slots": "휠체어 자리",
+    "amenities": "편의시설",
+    "status_active": "운행 중",
+    "book_this": "이 차량 예약",
+    "amenity_wifi": "Wi-Fi",
+    "amenity_usb": "USB 충전",
+    "amenity_ramp": "경사로",
+    "amenity_lift": "리프트",
+    "amenity_aircon": "에어컨",
+    "amenity_belt": "안전벨트"
+  },
+  "routes": {
+    "title": "운행 노선",
+    "subtitle": "파주 주요 무장애 관광지를 연결합니다",
+    "skip_to_main": "본문으로 바로가기",
+    "duration": "소요",
+    "distance": "거리",
+    "price": "기준 요금",
+    "book_this_route": "이 노선 예약",
+    "min": "분",
+    "km": "km",
+    "origin": "출발",
+    "destination": "도착"
+  },
+  "book": {
+    "title": "차량 예약",
+    "subtitle": "아래 조건으로 이용 가능한 차량을 검색하세요",
+    "skip_to_main": "본문으로 바로가기",
+    "search_date": "이용 날짜",
+    "search_passengers": "탑승 인원",
+    "search_wheelchair": "휠체어 좌석",
+    "search_type": "차량 유형",
+    "search_all_types": "모든 유형",
+    "search_trip": "여행 유형",
+    "search_one_way": "편도",
+    "search_round_trip": "왕복",
+    "search_submit": "차량 검색",
+    "results_title": "이용 가능한 차량",
+    "results_seats": "좌석",
+    "results_wheelchair": "휠체어",
+    "results_available": "예약 가능",
+    "book_this": "예약하기",
+    "demo_notice": "데모 미리보기 — 실제 예약은 정식 서비스 오픈 후 가능합니다",
+    "type_large": "대형 버스",
+    "type_mid": "중형 버스",
+    "type_van": "밴"
+  },
+  "news": {
+    "title": "소식",
+    "subtitle": "모두랑 파주의 최신 소식을 전합니다",
+    "skip_to_main": "본문으로 바로가기",
+    "empty": "게시된 소식이 없습니다",
+    "read_more": "자세히 보기",
+    "back": "소식 목록으로",
+    "author": "작성자",
+    "published": "게시일"
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subtitle": "예약과 이용에 관해 자주 묻는 질문을 모았습니다",
+    "skip_to_main": "본문으로 바로가기",
+    "empty": "등록된 FAQ가 없습니다",
+    "cat_booking": "예약",
+    "cat_accessibility": "접근성",
+    "cat_vehicle": "차량",
+    "cat_account": "계정"
+  },
+  "auth": {
+    "login_title": "로그인",
+    "login_email": "이메일",
+    "login_password": "비밀번호",
+    "login_submit": "로그인",
+    "login_no_account": "계정이 없으신가요?",
+    "login_signup": "회원가입",
+    "login_demo": "데모 계정으로 체험: user1@paju.local / paju1234!",
+    "skip_to_main": "본문으로 바로가기"
+  },
   "footer": {
-    "partnership": "경기도 · 경기관광공사 · 파주시 · 파주도시관광공사 · DMZ포레스트 협력 사업"
+    "partnership": "경기도 · 경기관광공사 · 파주시 · 파주도시관광공사 · DMZ포레스트 협력 사업",
+    "design": "디자인: Voluntrip"
   },
   "a11y": {
     "lang_select": "언어 선택",
@@ -36,6 +172,8 @@
   "common": {
     "loading": "불러오는 중...",
     "error": "오류가 발생했습니다",
-    "retry": "다시 시도"
+    "retry": "다시 시도",
+    "won": "원",
+    "persons": "명"
   }
 }
